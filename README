@@ -1,5 +1,5 @@
 If you want to play the game you're going to need UE4 it. If you don't have UE4 you can download it here (https://www.unrealengine.com).
 One you have UE4 installed then you can clone (for some reason downloading it doesn't work) the repo, then open 'ISP.uproject'.
 Once this has been completed you should be within UE4 and be able to click the play button in the upper right hand corner.
-I designed this game for the HTC Vive because it was the system I had on hand. I do not know if this will work for other systems.
+I designed this game for the HTC Vive because it was the only system I had at the time. I do not know if this will work for other systems.
 There is 3 puzzles in the game and all of my friends found the 3rd puzzle to be difficult. The hints I gave them were "This puzzle cannot be solved in the real world" and "Where did the blue dot go?"
