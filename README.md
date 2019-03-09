@@ -1,6 +1,6 @@
 # This is a game that I worked on for my 1st year ISP
 It's a escape room in VR built in Unreal Engine 4 and has never been released so you're going to need UE4 in order to play it.
-I know the game works on the HTC Vive but I never had access to test it on the Oculus Rift so I don't know if the game will be playable.
+I know the game works on the HTC Vive but I never had access to a Oculus Rift to test on so I don't know if the game will be playable.
 
 ---
 
