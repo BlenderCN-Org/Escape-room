@@ -1,14 +1,8 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.18",
+	"EngineAssociation": "4.23",
 	"Category": "",
 	"Description": "",
-	"Plugins": [
-		{
-			"Name": "ActorSequenceEditor",
-			"Enabled": true
-		}
-	],
 	"TargetPlatforms": [
 		"PS4",
 		"WindowsNoEditor"
