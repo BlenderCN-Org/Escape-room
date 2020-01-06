@@ -1,13 +1,11 @@
 # Escape room
 This project is a escape room in VR built in Unreal Engine 4 for my first ISP and has never been released so you're going to need UE4 in order to play it.
-I know the game works on the HTC Vive but I never had access to a Oculus Rift to test on so I don't know if the game will be playable.
+The game should work for both Oculus Rift and HTC Vive. I haven't tested out the Vive in a while but it still should work.
 
 ---
 
 ## How to play
-1. Download UE4 https://www.unrealengine.com
-1. One you have UE4 installed then you can clone (for some reason downloading it doesn't work) the repo, then open 'ISP.uproject'.
-1. Once this has been completed you should be within UE4 and be able to click the play button in the upper right hand corner.
+If you want to play the game go up to the top right and click on release, download Escape Room.zip, then click on Escape Room.exe. Hope you like it 😄
 
 ---
 
